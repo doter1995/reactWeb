@@ -1,0 +1,56 @@
+.P_title{
+  font-size: 1.6em;
+  color: #222;
+  font-weight: bold;
+  span{
+    float: right;
+  }
+}
+.P_time{
+  margin-top:15px; 
+  width: 100%;
+  p{
+    float: right;
+    font-size: 1.1em;
+    text-indent:2.2em;
+  }
+}
+.P_text{
+  margin-top:16px;
+  font-size: 1.1em;
+  text-indent:2.2em;
+  
+}
+.P_tool{
+  padding-top: 15px;
+  border-top: solid #111 1px;
+  font-size: 1.5em;
+  margin-top:20px; 
+}
+.P_sub {
+  margin-top:40px;
+  margin-bottom: 30px;
+}
+.P_sub_div{
+  width: 100%;
+  button{
+    float:right;
+  }
+}
+.P_reply{
+  font-size: 1.3em;
+  font-weight: bold;
+}
+.P_reply_u{
+  width: 100%;
+  font-size:1.2em;
+  font-weight: bold;
+  span{
+    float: right;
+    }
+}
+.P_reply_item{
+  width: 80%;
+  margin-left: 10%;
+  background-color: #ddd;
+}

@@ -1,0 +1,41 @@
+.U{
+  
+  text-align: center;
+}
+.U:hover{
+  cursor:pointer;
+}
+.U_img{
+  width:100px; 
+  height:100px;
+  border-radius:50%; 
+  overflow:hidden;
+}
+.U_name{
+  font-size: 1.6em;
+  font-weight: bold;
+}
+.U_sigin{
+  text-align: left;
+  font-size: 1.1em;
+  text-indent: 2.0em
+}
+.U_info{
+  div{
+    text-align: left;
+  }
+  margin-top: 40px;
+  width: 100%;
+  text-align: center;
+  font-size: 1.4em;
+  span{
+    font-size:0.9em;
+  }
+}
+.U_info_title{
+  text-align: left;
+  font-size: 1.6em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  border-bottom:  2px solid #333;
+}

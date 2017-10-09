@@ -1,0 +1,72 @@
+.Htitle{
+  color: #ccc;
+  font-size: 2em;
+  font-family: arial;
+}
+.Htitle_info{
+  margin-left: 40px;
+   font-size: 0.6em;
+   font-family: arial;
+}
+.Hlogin_res{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 100%;
+  text-align: left;
+  span{
+    margin: 10px;
+    font-size: 1.5em;
+    padding: 4px;
+  }
+}
+.Hlogin_res_{
+  border-bottom: 2px rgba(#108ee9, 0) solid;
+}
+.Hlogin_res_active{
+    border-bottom: 2px rgba(#108ee9, 1) solid;
+    color: #108ee9;
+}
+.HloginDialog-login{
+  font-family: arial;
+  text-align: center;
+  input {
+    margin: auto 0;
+    line-height: 46px;
+    height: 46px;
+    margin-bottom: 35px;
+    width: 70%;
+    min-width: 100px;
+  }
+}
+.HloginDialog-res{
+  font-family: arial;
+  text-align: center;
+  input {
+    margin: auto 0;
+    line-height: 46px;
+    height: 46px;
+    margin-bottom: 20px;
+    width: 70%;
+    min-width: 100px;
+  }
+}
+.Hlogin_tip{
+  width: 40px;
+  display: inline-block;
+  height: 46px;
+  img{
+    width: 20px;
+    margin: auto 0;
+    vertical-align:middle;
+  }
+}
+.hidden{
+  visibility: hidden;
+}
+.home_login{
+  color: #eee;
+  input{
+    color: #333;
+  }
+  min-height: 400px;
+}
